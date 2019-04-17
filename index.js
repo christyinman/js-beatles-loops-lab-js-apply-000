@@ -19,7 +19,7 @@ function johnLennonFacts(facts){
   var counter=0;
   var newFacts = [];
   for(counter=0; counter<facts.length; counter++){
-    newFacts.push(`${facts[counter]} !!!`);
+    newFacts.push(`${facts[counter]}!!!`);
   }
   
   //while(counter<facts.length){
